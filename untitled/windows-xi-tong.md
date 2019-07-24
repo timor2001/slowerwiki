@@ -14,7 +14,7 @@ description: 适用系统：Windows 7 32/64位 & Windows 10 32/64位
 **下载使用前确保您的系统已安装**[**Microsoft .NET Framework 4.5**](https://www.microsoft.com/zh-CN/download/details.aspx?id=30653)**，如您不确定您的系统是否有此运行库，请在安装完此运行库后在进行以下操作！**
 {% endhint %}
 
-[点击此处下载Slower加速器](https://cdn.lymbb.com/lymbb/Slower_Installer.exe)
+[点击此处下载Slower加速器](https://slower.coding.net/p/slower/git/raw/master/Slower_Installer.exe)
 
 下载并打开（如出现以下提示请按图操作）
 
