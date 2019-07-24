@@ -7,4 +7,10 @@
   * [IOS系统](untitled/ios-xi-tong.md)
   * [Android安卓系统](untitled/android-an-zhuo-xi-tong.md)
   * [Linux\(Ubuntu\)](untitled/linux-ubuntu.md)
+* [视频教程](shi-pin-jiao-cheng/README.md)
+  * [Windows 视频教程](shi-pin-jiao-cheng/windows-shi-pin-jiao-cheng.md)
+  * [Android安卓 视频教程](shi-pin-jiao-cheng/android-an-zhuo-shi-pin-jiao-cheng.md)
+* [网站使用](wang-zhan-shi-yong/README.md)
+  * [服务器订阅](wang-zhan-shi-yong/fu-wu-qi-ding-yue.md)
+  * [节点推荐](wang-zhan-shi-yong/jie-dian-tui-jian.md)
 
