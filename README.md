@@ -10,7 +10,7 @@ description: Slower网络加速器
 
 ### 软件使用
 
-Windows系统  
+[Windows系统](untitled/windows-xi-tong.md)  
 Mac OS系统  
 IOS系统  
 Android安卓系统  
