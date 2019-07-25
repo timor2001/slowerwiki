@@ -8,7 +8,7 @@
 
 登录网站后，在用户中心首页下方“配置中心 &gt; SSR快速配置”中可以看到自己的订阅地址。
 
-![](../.gitbook/assets/index%20%281%29.png)
+![](https://slower.coding.net/p/slower/git/raw/master/gitbook/dingyue/index.png)
 
 订阅地址包含了普通端口和专用单端口。
 
