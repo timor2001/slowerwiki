@@ -56,7 +56,7 @@ description: 适用设备：iphone & ipad
 
 处理完毕后选择一个合适的节点并连接[（如何选择合适的节点？）](../wang-zhan-shi-yong/jie-dian-tui-jian.md)
 
-![](../.gitbook/assets/5cf13ed64656825240.png)
+![](https://slower.coding.net/p/slower/git/raw/master/5cf13ed64656825240.png)
 
 点击完Allow后会提示验证您的指纹或锁屏密码，验证完即可开启代理。
 
