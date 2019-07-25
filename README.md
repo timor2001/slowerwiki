@@ -11,18 +11,13 @@ description: Slower网络加速器
 ### 软件使用
 
 [Windows系统](untitled/windows-xi-tong.md)  
-Mac OS系统  
-IOS系统  
-Android安卓系统  
-Linux\(Ubuntu\)
-
-### 视频教程
-
-Windows 视频教程  
-Android安卓 视频教程
+[Mac OS系统](untitled/mac-os-xi-tong.md)  
+[IOS系统](untitled/ios-xi-tong.md)  
+[Android安卓系统](untitled/android-an-zhuo-xi-tong.md)  
+[Linux\(Ubuntu\)](untitled/linux-ubuntu.md)
 
 ### 网站使用
 
-服务器订阅  
-节点推荐
+[服务器订阅](wang-zhan-shi-yong/fu-wu-qi-ding-yue.md)  
+[节点推荐](wang-zhan-shi-yong/jie-dian-tui-jian.md)
 
