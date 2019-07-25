@@ -10,7 +10,7 @@ description: 适用设备：iphone & ipad
 如果您是我们的付费用户，我们为您提供非国区的App store ID账号并帮助您进行下载并安装客户端！
 {% endhint %}
 
-### 更换您的App store ID账号（并非是您的手机ID账号）
+## 更换您的App store ID账号（并非是您的手机ID账号）
 
 打开手机设置
 
@@ -28,7 +28,7 @@ description: 适用设备：iphone & ipad
 
 ![](https://slower.coding.net/p/slower/git/raw/master/94cad1c8a786c917a47bb2efc23d70cf3ac757e8.png)
 
-### 下载并安装客户端
+## 下载并安装客户端
 
 更换完我们提供的非国区账号后，打开手机中App store并搜索"Shadowrocket"开始下载并等待安装完毕
 
@@ -36,7 +36,7 @@ description: 适用设备：iphone & ipad
 
 ![](https://slower.coding.net/p/slower/git/raw/master/Snipaste_2019-07-25_00-04-11.png)
 
-### 软件使用
+## 软件使用
 
 在客户端安装完毕后打开iPhone/iPad自带的Safari浏览器
 
@@ -62,13 +62,11 @@ description: 适用设备：iphone & ipad
 
 ![&#x6B64;&#x72B6;&#x6001;&#x5373;&#x4E3A;&#x5DF2;&#x8FDE;&#x63A5;&#x5230;VPN&#x4EE3;&#x7406;&#x8282;&#x70B9;](https://slower.coding.net/p/slower/git/raw/master/5cf13f036433285824.png)
 
-### **断开连接**
+## **断开连接**
 
 关闭连接开关
 
 下次使用直接打开该软件，选择节点并打开连接开关即可。
 
 ![&#x6B64;&#x72B6;&#x6001;&#x5373;&#x4E3A;&#x5173;&#x95ED;VPN](https://slower.coding.net/p/slower/git/raw/master/5cf13f3f64af477024.png)
-
-
 
