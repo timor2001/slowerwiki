@@ -12,7 +12,7 @@ description: 节点推荐及命名方式
 
 例：
 
-![](../.gitbook/assets/index.png)
+![](https://slower.coding.net/p/slower/git/raw/master/gitbook/jiedt/jiedian.png)
 
 **Netflix** = 此节点已解锁Netflix，可直接使用您个人账号或我们提供的免费账号登录到netflix.com观看美剧及各类流媒体资源
 
