@@ -36,13 +36,13 @@ description: 适用的系统版本：macOS 10.11+
 
 ![](../.gitbook/assets/5cefed4e08f2399294.png)
 
-### **设置服务器订阅**
+### **设置服务器订阅**[（如何获取服务器订阅?）](../wang-zhan-shi-yong/fu-wu-qi-ding-yue.md)
 
 点击右上角托盘处的小飞机图标→服务器→编辑订阅
 
 ![](../.gitbook/assets/5cefee85ab9b328165.png)
 
- 点击加号，将订阅地址\[（如何获取服务器订阅?\)复制进去，点击OK。
+ 点击加号，将订阅地址[（如何获取服务器订阅?）](../wang-zhan-shi-yong/fu-wu-qi-ding-yue.md)复制进去，点击OK。
 
 ![](../.gitbook/assets/5cefee8579c6829021.png)
 
@@ -54,7 +54,7 @@ description: 适用的系统版本：macOS 10.11+
 
 ![](../.gitbook/assets/5cefee85bfec217488.png)
 
-选择一个合适的节点（如何选择合适的节点？）
+选择一个合适的节点[（如何选择合适的节点？）](../wang-zhan-shi-yong/jie-dian-tui-jian.md)
 
 **\*剩余流量和过期时间均为您的账户信息，请勿选择这两个节点**
 

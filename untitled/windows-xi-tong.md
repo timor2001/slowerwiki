@@ -14,6 +14,8 @@ description: 适用系统：Windows 7 32/64位 & Windows 10 32/64位
 **下载使用前确保您的系统已安装**[**Microsoft .NET Framework 4.5**](https://www.microsoft.com/zh-CN/download/details.aspx?id=30653)**，如您不确定您的系统是否有此运行库，请在安装完此运行库后在进行以下操作！**
 {% endhint %}
 
+### 下载客户端并安装（Windows 7 & Windows 10）
+
 [点击此处下载Slower加速器](https://slower.coding.net/p/slower/git/raw/master/Slower_Installer.exe)
 
 下载并打开（如出现以下提示请按图操作）
@@ -26,7 +28,7 @@ description: 适用系统：Windows 7 32/64位 & Windows 10 32/64位
 
 ![](../.gitbook/assets/5cf8cc068c4f850981.png)
 
-运行程序
+### 运行程序
 
 ![](../.gitbook/assets/5cf8cc4e7e1a918387.png)
 
@@ -43,7 +45,7 @@ description: 适用系统：Windows 7 32/64位 & Windows 10 32/64位
 
 ### **选择节点**
 
- 代理选择合适的加速节点\(如何选择合适的节点?\)
+ 代理选择合适的加速节点[\(如何选择合适的节点?\)](../wang-zhan-shi-yong/jie-dian-tui-jian.md)
 
 ![](../.gitbook/assets/5cf8ce60c7f2068466.png)
 
