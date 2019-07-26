@@ -1,3 +1,6 @@
 # macOS视频教程
 
-[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/vt5fpE0bzSY)
+{% hint style="info" %}
+[点击这里查看macOS视频教程](https://cdn.slower.xyz/mac.mp4)
+{% endhint %}
+
