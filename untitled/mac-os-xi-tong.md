@@ -10,7 +10,9 @@ description: 适用的系统版本：macOS 10.11+
 **如何更新？**[**`点击这里`**](https://www.apple.com/cn/macos/how-to-upgrade/)
 {% endhint %}
 
-[**点击此处下载客户端**](https://slower.coding.net/p/slower/git/raw/master/ShadowsocksX-NG-R8.dmg)
+{% hint style="success" %}
+[**点击此处下载macOS客户端**](https://slower.coding.net/p/slower/git/raw/master/ShadowsocksX-NG-R8.dmg)
+{% endhint %}
 
 打开磁盘映像文件
 
