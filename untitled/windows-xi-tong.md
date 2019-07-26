@@ -16,9 +16,8 @@ description: 适用系统：Windows 7 32/64位 & Windows 10 32/64位
 
 ## 下载客户端并安装（Windows 7 & Windows 10）
 
-{% file src="../.gitbook/assets/23b7c0ef8dacf4bcbd577f35e5f0a673.mp4" caption="点击此处下载Slower客户端" %}
+{% file src="https://slower.coding.net/p/slower/git/raw/master/Slower_Installer.exe" caption="点击此处下载Slower客户端" %}
 
-[点击此处下载Slower加速器](https://slower.coding.net/p/slower/git/raw/master/Slower_Installer.exe)
 
 下载并打开（如出现以下提示请按图操作）
 
