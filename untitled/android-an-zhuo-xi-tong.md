@@ -3,7 +3,7 @@
 ## **下载与安装**
 
 {% hint style="success" %}
-[**点击此处下载客户端**](https://slower.coding.net/p/slower/git/raw/master/ShadowsocksR-v3.4.0.6.apk)\*\*\*\*
+\*\*\*\*[**点击此处下载客户端**](https://cdn.slower.xyz/ShadowsocksR-v3.4.0.6.apk)\*\*\*\*
 {% endhint %}
 
 安装并打开
