@@ -7,6 +7,8 @@ description: 适用设备：iphone & ipad
 {% hint style="info" %}
 由于App store中国区的特殊性，我们无法提供中国区App store的客户端下载，您需要使用非中国区的App store ID账号进行下载客户端使用！
 
+[非国区App store ID账号点这里获取](../wang-zhan-shi-yong/mian-fei-app-store-zhang-hao.md)
+
 如果您是我们的付费用户，我们为您提供非国区的App store ID账号并帮助您进行下载并安装客户端！
 {% endhint %}
 
