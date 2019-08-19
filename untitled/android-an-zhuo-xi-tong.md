@@ -3,8 +3,14 @@
 ## **下载与安装**
 
 {% hint style="success" %}
-\*\*\*\*[**点击此处下载客户端**](https://cdn.slower.xyz/ShadowsocksR-v3.4.0.6.apk)\*\*\*\*
+\*\*\*\*[**点击此处下载SSR客户端**](https://cdn.slower.xyz/ShadowsocksR-v3.4.0.6.apk)  **或** [**下载SSRR客户端**](https://cdn.slower.xyz/ssrr-android.apk)\*\*\*\*
 {% endhint %}
+
+{% hint style="info" %}
+如SSR客户端无法正常使用请下载SSRR客户端，使用方法与SSR一致
+{% endhint %}
+
+
 
 安装并打开
 
