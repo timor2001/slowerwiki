@@ -2,6 +2,7 @@
 
 | 账号 | 密码 |
 | :--- | :--- |
+| 8.25更新：4SSGIT@Gmail.com | 4ssORG1234 |
 | 8.3更新：yuekass@126.com | Ssrssr01 |
 | 8.2更新：GET@shadowrocket.online | 66GET@shadowrocket.online |
 | 8.1更新：loveusipad@gmail.com | Help0104 |
