@@ -14,3 +14,7 @@
 * [视频教程](shi-pin-jiao-cheng/README.md)
   * [macOS视频教程](shi-pin-jiao-cheng/macos-shi-pin-jiao-cheng.md)
 
+## 常见问题
+
+* [可能会问或者以后会问的问题](chang-jian-wen-ti/ke-neng-hui-wen-huo-zhe-yi-hou-hui-wen-de-wen-ti.md)
+
