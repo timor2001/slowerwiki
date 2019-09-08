@@ -6,6 +6,8 @@ description: Slower网络加速器
 
 ### **您好,常见问题都可以在这里找到解决方法,请仔细阅读。**
 
+[常见问题](chang-jian-wen-ti/ke-neng-hui-wen-huo-zhe-yi-hou-hui-wen-de-wen-ti.md)
+
 声明：本站只提供外服游戏加速服务，不提供各种违法服务！本站软件和使用方法不唯一，并且具有时效性，仅供参考！
 
 ### 软件使用
@@ -20,4 +22,8 @@ description: Slower网络加速器
 
 [服务器订阅](wang-zhan-shi-yong/fu-wu-qi-ding-yue.md)  
 [节点推荐](wang-zhan-shi-yong/jie-dian-tui-jian.md)
+
+[免费APP store账号](wang-zhan-shi-yong/mian-fei-app-store-zhang-hao.md)
+
+
 

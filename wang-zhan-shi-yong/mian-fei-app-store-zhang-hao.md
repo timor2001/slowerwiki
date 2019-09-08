@@ -16,6 +16,7 @@
 
 | 账号 | 密码 |
 | :--- | :--- |
+| 9.8更新：flycloud.site@gmail.com | Flycloud.site1 |
 | 9.3更新：shareapid@gmail.com | Share1100 |
 | 9.3更新：smgyangfan02@163.com | 13gongzhonghao:SMGfuli |
 | 8.25更新：4SSGIT@Gmail.com | 4ssORG1234 |
