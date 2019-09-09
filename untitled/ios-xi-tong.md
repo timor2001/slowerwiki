@@ -52,11 +52,17 @@ description: 适用设备：iphone & ipad
 
 ![](https://slower.coding.net/p/slower/git/raw/master/Snipaste_2019-07-25_00-11-46.png)
 
-此时会跳转到Shadowrocket客户端中，等待处理完毕
+此时会跳转到Shadowrocket客户端中
 
-![](https://slower.coding.net/p/slower/git/raw/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20190725001201.jpg)
+如Shadowrocket中未出现节点请左滑Slower订阅选择更新即可！如图操作！
+
+![](../.gitbook/assets/tu-pian%20%282%29.png)
+
+![](../.gitbook/assets/tu-pian%20%284%29.png)
 
 处理完毕后选择一个合适的节点并连接[（如何选择合适的节点？）](../wang-zhan-shi-yong/jie-dian-tui-jian.md)
+
+![](../.gitbook/assets/tu-pian%20%281%29.png)
 
 ![](https://slower.coding.net/p/slower/git/raw/master/5cf13ed64656825240.png)
 
