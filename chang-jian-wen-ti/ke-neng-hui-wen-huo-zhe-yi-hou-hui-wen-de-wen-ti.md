@@ -126,7 +126,7 @@ ss：ss作者是[clowwindy](https://github.com/clowwindy)，大约两年前，�
 
 打开小火箭，按住订阅列表左滑选择更新即可
 
-![](../.gitbook/assets/tu-pian%20%283%29.png)
+![](../.gitbook/assets/tu-pian%20%287%29.png)
 
 安卓操作方法：
 

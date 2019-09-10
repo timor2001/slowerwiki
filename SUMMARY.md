@@ -7,6 +7,7 @@
   * [IOS系统](untitled/ios-xi-tong.md)
   * [Android安卓系统](untitled/android-an-zhuo-xi-tong.md)
   * [Linux\(Ubuntu\)](untitled/linux-ubuntu.md)
+  * [Windows全兼容](untitled/windows-quan-jian-rong.md)
 * [网站使用](wang-zhan-shi-yong/README.md)
   * [免费App store账号](wang-zhan-shi-yong/mian-fei-app-store-zhang-hao.md)
   * [服务器订阅](wang-zhan-shi-yong/fu-wu-qi-ding-yue.md)

@@ -19,8 +19,14 @@ description: 适用系统：Windows 7 32/64位 & Windows 10 32/64位
 {% endhint %}
 
 {% hint style="info" %}
-**如果您使用的系统为Windows XP请点击这里查看教程（这么古老的系统还是放弃吧！）**
+**如果您使用的系统为Windows XP**
 
+\*\*\*\*[**点击这里查看**](windows-quan-jian-rong.md)🤥 
+
+**如果您在使用客户端时发现各种未知bug也请查看以上教程**
+{% endhint %}
+
+{% hint style="info" %}
 **如果您使用的是Windows 7 & Windows 10 请继续查看以下内容**
 {% endhint %}
 
