@@ -12,15 +12,25 @@
 如更换为手机ID导致手机被锁变砖Slower不负任何责任！！
 {% endhint %}
 
+{% hint style="info" %}
+佛系更新，如有ID密码错误或无法登陆属正常情况，自行测试即可~ 🤥 
+{% endhint %}
 
+{% hint style="success" %}
+VIP用户可直接找Slower客服大大索取专用ID 🤣 
+{% endhint %}
 
 | 账号 | 密码 |
 | :--- | :--- |
-| 9.8更新：flycloud.site@gmail.com | Flycloud.site1 |
+| 9.12更新：1714477@Gmail.com | Freeidxyz1234 |
+| 9.12更新：lghcav61@icloud.com | Ab112211 |
+| 9.12更新：mm-gzs@qq.com | 404Gongzhonghaokzddck |
+| 9.12更新：smgyangfan02@163.com | 14gongzhonghao:SMGfuli |
+| 9.12更新：flycloud.site@gmail.com | VRxilf2V4Spl |
 | 9.3更新：shareapid@gmail.com | Share1100 |
 | 9.3更新：smgyangfan02@163.com | 13gongzhonghao:SMGfuli |
-| 8.25更新：4SSGIT@Gmail.com | 4ssORG1234 |
-| 8.3更新：yuekass@126.com | Ssrssr01 |
+| 9.12更新：4SSGIT@Gmail.com | 4ssGit1234 |
+| 8.9更新：yuekass@126.com | Ssrssr01 |
 | 8.2更新：GET@shadowrocket.online | 66GET@shadowrocket.online |
 | 8.1更新：loveusipad@gmail.com | Help0104 |
 | 8.1更新：gkx4aknu03dh@163.com | Ss112211 |
