@@ -12,7 +12,7 @@ description: ShadowsocksR使用教程
 
 ## 如何添加订阅并自动更新服务器列表?
 
-**第一步:** 
+**第一步:**
 
 {% hint style="info" %}
 **复制订阅链接到剪贴板：**
@@ -31,12 +31,12 @@ description: ShadowsocksR使用教程
 {% endhint %}
 
 {% hint style="success" %}
-[下载ShadowsocksR](https://cdn.slowerssr.top/SSR-win.rar)    [运行库\(XP\)](https://www.microsoft.com/zh-CN/download/details.aspx?id=21)   [运行库\(WIN7/8/10\)](https://www.microsoft.com/zh-CN/download/details.aspx?id=17718)  [ Chrome浏览器](https://www.zioncdn.site/chrome/ChromeStandaloneSetup64.exe)
+[下载ShadowsocksR](https://cdn.slowerssr.top/SSR-win.rar) [运行库\(XP\)](https://www.microsoft.com/zh-CN/download/details.aspx?id=21) [运行库\(WIN7/8/10\)](https://www.microsoft.com/zh-CN/download/details.aspx?id=17718) [ Chrome浏览器](https://www.zioncdn.site/chrome/ChromeStandaloneSetup64.exe)
 {% endhint %}
-!
+
 ![](https://cdn.slowerssr.top/docs/SSR/ia_100000000422.png)
 
-**第三步:** 
+**第三步:**
 
 {% hint style="info" %}
 【1】添加订阅并更新服务器列表：从系统托盘处【右键】点击程序图标，打开服务器订阅 -&gt; SSR服务器订阅设置。点击【Add】并在右侧网址除粘贴之前复制的订阅链接，点击【确定】完成设置。
@@ -46,7 +46,7 @@ description: ShadowsocksR使用教程
 
 ![](https://cdn.slowerssr.top/docs/SSR/ia_100000000423.png)
 
-#### **更新服务器列表后，你就可以看到完整的Slower服务器了，选择一个合适的服务器吧。**
+### **更新服务器列表后，你就可以看到完整的Slower服务器了，选择一个合适的服务器吧。**
 
 ![](https://cdn.slowerssr.top/docs/SSR/ia_100000000424.png)
 
