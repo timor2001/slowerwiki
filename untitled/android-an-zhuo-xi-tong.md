@@ -42,7 +42,7 @@
 
 打开自动更新开关，点击确定并升级，等待节点加载完成。
 
-![](https://cdn.slowerssr.top/docs/Android/ia_100000000298.png)
+![](https://cdn.slowerssr.top/docs/Android/ia_100000000298.jpg)
 
 ## **选择节点**
 
