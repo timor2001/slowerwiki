@@ -22,11 +22,11 @@
 
 进入配置文件页后点击右下角加号
 
-![](https://cdn.slowerssr.top/docs/Android/ia_100000000292.png)
+![](https://cdn.slowerssr.top/docs/Android/ia_100000000292.jpg)
 
 选择“添加/升级 SSR订阅”
 
-![](https://cdn.slowerssr.top/docs/Android/ia_100000000291.png)
+![](https://cdn.slowerssr.top/docs/Android/ia_100000000291.jpg)
 
 按住“FreeSSR-public”向左或向右滑动并点击直接删除
 
@@ -54,13 +54,13 @@
 
 选择合适的节点[\(如何选择合适的节点?\)](../wang-zhan-shi-yong/jie-dian-tui-jian.md)
 
-![](https://cdn.slowerssr.top/docs/Android/ia_100000000299.png)
+![](https://cdn.slowerssr.top/docs/Android/ia_100000000299.jpg)
 
 ## **选择代理模式**
 
 向下滑动找到路由选项，选择“绕过局域网及中国大陆地址”（代理所有国外网站）或“仅代理中国大陆无法访问的地址”（只代理无法访问网站）。
 
-![](https://cdn.slowerssr.top/docs/Android/ia_100000000303.png)
+![](https://cdn.slowerssr.top/docs/Android/ia_100000000303.gif)
 
 如果你是海外用户，想要翻回国内，选择“仅代理中国大陆地址”（代理所有国内网站）。
 
