@@ -21,7 +21,7 @@ description: 适用系统：Windows 7 32/64位 & Windows 10 32/64位
 {% hint style="info" %}
 **如果您使用的系统为Windows XP**
 
-\*\*\*\*[**点击这里查看**](windows-quan-jian-rong.md)🤥 
+[**点击这里查看**](windows-quan-jian-rong.md)🤥
 
 **如果您在使用客户端时发现各种未知bug也请查看以上教程**
 {% endhint %}
@@ -33,8 +33,6 @@ description: 适用系统：Windows 7 32/64位 & Windows 10 32/64位
 {% hint style="danger" %}
 **下载使用前确保您的系统已安装**[**Microsoft .NET Framework 4.5**](https://www.microsoft.com/zh-CN/download/details.aspx?id=30653)**，如您不确定您的系统是否有此运行库，请在安装完此运行库后在进行以下操作！**
 {% endhint %}
-
-\*\*\*\*
 
 ## 下载客户端并安装（Windows 7 & Windows 10）
 
