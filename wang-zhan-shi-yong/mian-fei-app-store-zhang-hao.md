@@ -12,12 +12,16 @@
 如更换为手机ID导致手机被锁变砖Slower不负任何责任！！
 {% endhint %}
 
-{% hint style="info" %}
-佛系更新，如有ID密码错误或无法登陆属正常情况，自行测试即可~ 🤥 
+{% hint style="success" %}
+VIP用户可直接登陆Slower官网在账号获取中查看VIP共享ID🤣 
 {% endhint %}
 
-{% hint style="success" %}
-VIP用户可直接找Slower客服大大索取专用ID 🤣 
+![](../.gitbook/assets/tu-pian.png)
+
+{% hint style="info" %}
+以下为免费ID
+
+佛系更新，如有ID密码错误或无法登陆属正常情况，自行测试即可~ 🤥 
 {% endhint %}
 
 | 账号 | 密码 |

@@ -9,8 +9,10 @@ description: 适用设备：iphone & ipad
 
 [非国区App store ID账号点这里获取](../wang-zhan-shi-yong/mian-fei-app-store-zhang-hao.md)
 
-如果您是我们的付费用户，我们为您提供非国区的App store ID账号并帮助您进行下载并安装客户端！
+如果您是我们的付费用户，我们为您提供非国区的App store ID.
 {% endhint %}
+
+
 
 ## 更换您的App store ID账号（并非是您的手机ID账号）
 
