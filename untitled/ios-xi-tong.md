@@ -28,7 +28,7 @@ description: 适用设备：iphone & ipad
 
 ![](https://cdn.slowerssr.top/docs/IOS/ia_100000000340.png)
 
-点击您所登录的Apple ID账号，出现选项后选择注销按钮即可，之后就可以更换到我们提供的商店ID账号登录。
+点击您所登录的Apple ID账号，出现选项后选择注销按钮即可，之后就可以更换到我们提供的商店ID账号登录\(付费用户提供ID,如果您是未付费用户请自行查找免费ID\)。
 
 ![](https://cdn.slowerssr.top/docs/IOS/ia_100000000341.png)
 
