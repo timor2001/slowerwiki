@@ -11,7 +11,9 @@ description: 适用的系统版本：macOS 10.11+
 {% endhint %}
 
 {% hint style="success" %}
-\*\*\*\*[**点击此处下载macOS客户端**](https://cdn.slowerssr.top/ShadowsocksX-NG-R8.dmg)\*\*\*\*
+[**点击此处下载macOS客户端**](https://cdn.slowerssr.top/ShadowsocksX-NG-R8.dmg)**\(国外镜像\)**
+
+[macOS客户端](https://www.lanzous.com/i7trhsd)\(国内分流\)
 {% endhint %}
 
 打开磁盘映像文件

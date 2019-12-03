@@ -32,6 +32,8 @@ description: ShadowsocksR使用教程
 
 {% hint style="success" %}
 [下载ShadowsocksR](https://cdn.slowerssr.top/SSR-win.rar) [运行库\(XP\)](https://www.microsoft.com/zh-CN/download/details.aspx?id=21) [运行库\(WIN7/8/10\)](https://www.microsoft.com/zh-CN/download/details.aspx?id=17718) [ Chrome浏览器](https://www.zioncdn.site/chrome/ChromeStandaloneSetup64.exe)
+
+国内镜像:[下载ShadowsocksR ](https://www.lanzous.com/i7trhvg)
 {% endhint %}
 
 ![](https://cdn.slowerssr.top/docs/SSR/ia_100000000422.png)
