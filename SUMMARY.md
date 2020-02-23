@@ -2,6 +2,7 @@
 
 * [欢迎](README.md)
 * [软件使用](untitled/README.md)
+  * [ClashR系列教程](untitled/clashr-xi-lie-jiao-cheng.md)
   * [Windows系统](untitled/windows-xi-tong.md)
   * [Mac OS系统](untitled/mac-os-xi-tong.md)
   * [IOS系统](untitled/ios-xi-tong.md)
