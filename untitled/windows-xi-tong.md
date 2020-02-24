@@ -37,11 +37,7 @@ description: 适用系统：Windows 7 32/64位 & Windows 10 32/64位
 ## 下载客户端并安装（Windows 7 & Windows 10）
 
 {% hint style="success" %}
-[点击此处下载Slower客户端](https://cdn.slowerssr.top/Slower_Installer.exe)\(国外镜像\)
-{% endhint %}
-
-{% hint style="success" %}
-[Slower客户端](https://www.lanzous.com/i7trhpa)\(国内镜像\)
+[点击此处下载Slower客户端](https://www.lanzous.com/i9nivta)
 {% endhint %}
 
 下载并打开（如出现以下提示请按图操作）
