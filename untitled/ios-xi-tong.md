@@ -6,11 +6,17 @@ description: 适用设备：iphone & ipad
 
 {% hint style="info" %}
 由于App store中国区的特殊性，我们无法提供中国区App store的客户端下载，您需要使用非中国区的App store ID账号进行下载客户端使用！
-
-[非国区App store ID账号点这里获取](../wang-zhan-shi-yong/mian-fei-app-store-zhang-hao.md)
-
-如果您是我们的付费用户，我们为您提供非国区的App store ID.
 {% endhint %}
+
+{% hint style="info" %}
+如果您是我们的付费用户，我们为您提供非国区的App store ID.
+
+请注意!目前apple对共享ID进行了打击,我们因此损失严重,因此我们开启了共享ID的二次验证,如果您在登陆官网中提供的共享ID需要验证码,请联系客服进行索取验证码\(理论上我们可以为您提供3次验证,如超过次数我们将不再提供验证码\)!
+
+您也可前往:[https://id.wohaobang.cn/product/](https://id.wohaobang.cn/product/) 自行购买美区小火箭ID
+{% endhint %}
+
+
 
 
 
@@ -28,7 +34,13 @@ description: 适用设备：iphone & ipad
 
 ![](https://cdn.slowerssr.top/docs/IOS/ia_100000000340.png)
 
-点击您所登录的Apple ID账号，出现选项后选择注销按钮即可，之后就可以更换到我们提供的商店ID账号登录\(付费用户提供ID,如果您是未付费用户请自行查找免费ID\)。
+点击您所登录的Apple ID账号，出现选项后选择注销按钮即可，之后就可以更换到我们提供的商店ID账号登录.
+
+如果您是我们的付费用户，我们为您提供非国区的App store ID.
+
+请注意!目前apple对共享ID进行了打击,我们因此损失严重,因此我们开启了共享ID的二次验证,如果您在登陆官网中提供的共享ID需要验证码,请联系客服进行索取验证码\(理论上我们可以为您提供3次验证,如超过次数我们将不再提供验证码\)!
+
+您也可前往:[https://id.wohaobang.cn/product/](https://id.wohaobang.cn/product/) 自行购买美区小火箭ID
 
 ![](https://cdn.slowerssr.top/docs/IOS/ia_100000000341.png)
 
