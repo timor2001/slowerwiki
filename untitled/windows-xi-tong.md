@@ -19,25 +19,27 @@ description: 适用系统：Windows 7 32/64位 & Windows 10 32/64位
 {% endhint %}
 
 {% hint style="info" %}
-**如果您使用的系统为Windows XP**
+**此客户端对XP系统及WIN7系统的支持兼容性基本为0**
 
-[**点击这里查看**](windows-quan-jian-rong.md)🤥
+**所以我们并不推荐使用以上系统的小伙伴使用此客户端**
 
-**如果您在使用客户端时发现各种未知bug也请查看以上教程**
-{% endhint %}
-
-{% hint style="info" %}
-**如果您使用的是Windows 7 & Windows 10 请继续查看以下内容**
+**建议**[**移步到这里**](windows-quan-jian-rong.md)\*\*\*\*
 {% endhint %}
 
 {% hint style="danger" %}
 **下载使用前确保您的系统已安装**[**Microsoft .NET Framework 4.5**](https://www.microsoft.com/zh-CN/download/details.aspx?id=30653)**，如您不确定您的系统是否有此运行库，请在安装完此运行库后在进行以下操作！**
 {% endhint %}
 
-## 下载客户端并安装（Windows 7 & Windows 10）
+## 下载客户端并安装
 
 {% hint style="success" %}
 [点击此处下载Slower客户端](https://www.lanzous.com/i9nivta)
+{% endhint %}
+
+{% hint style="danger" %}
+再次说明！Slower客户端会被某些杀毒软件误报为病毒。建议卸载您的那些杀毒软件并
+
+安装[火绒杀毒](https://www.huorong.cn/person5.html)，即可正常使用。
 {% endhint %}
 
 下载并打开（如出现以下提示请按图操作）
@@ -67,7 +69,15 @@ description: 适用系统：Windows 7 32/64位 & Windows 10 32/64位
 
 ## **选择节点**
 
-代理选择合适的加速节点[\(如何选择合适的节点?\)](../wang-zhan-shi-yong/jie-dian-tui-jian.md)
+{% hint style="info" %}
+代理选择合适的加速节点，而不是选择**到期时间**和**剩余流量**
+{% endhint %}
+
+{% hint style="warning" %}
+什么？你只有到期时间和剩余流量？
+
+请购买套餐后使用。谢谢！
+{% endhint %}
 
 ![](https://cdn.slowerssr.top/docs/PC/ia_100000000396.png)
 
