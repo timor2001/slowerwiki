@@ -46,7 +46,7 @@ description: 适用设备：iphone & ipad
 按下图操作更换即可.
 {% endhint %}
 
-![](https://cdn.slowerssr.top/docs/IOS/xEKdsUbSV6AMr1B.png)
+![](https://i.loli.net/2020/03/15/xEKdsUbSV6AMr1B.png)
 
 {% hint style="success" %}
 退出后点击登陆由slower提供的商店ID即可进行下一步啦~
@@ -58,7 +58,7 @@ description: 适用设备：iphone & ipad
 更换完我们提供的非国区账号后，打开手机中App store并搜索"Shadowrocket"开始下载并等待安装完毕
 {% endhint %}
 
-![](https://cdn.slowerssr.top/docs/IOS/ia_100000000345.png)
+![](https://i.loli.net/2020/03/15/hOWbBUtzZ6i5DnT.png)
 
 {% hint style="danger" %}
 在您下载完上述软件后请务必换回自己的ID,否则出现一切问题\(如手机被锁等其他问题\)Slower将不承担任何后果!
