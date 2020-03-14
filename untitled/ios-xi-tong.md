@@ -32,6 +32,8 @@ description: 适用设备：iphone & ipad
 您也可前往:[https://id.wohaobang.cn/product/](https://id.wohaobang.cn/product/) 自行购买美区小火箭ID
 {% endhint %}
 
+## 1.更换您的App store ID账号（并非是您的手机ID账号）
+
 {% hint style="danger" %}
 请仔细阅读本图文教程并严格操作!!!!
 
@@ -39,8 +41,6 @@ description: 适用设备：iphone & ipad
 
 如不听劝阻依旧做傻事,那么您的iPhone可能会变成被锁导致变成砖头一枚.
 {% endhint %}
-
-## 1.更换您的App store ID账号（并非是您的手机ID账号）
 
 {% hint style="success" %}
 按下图操作更换即可.
