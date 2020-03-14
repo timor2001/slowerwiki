@@ -46,7 +46,7 @@ description: 适用设备：iphone & ipad
 按下图操作更换即可.
 {% endhint %}
 
-![](../.gitbook/assets/tu-pian%20%282%29.png)
+![](https://cdn.slowerssr.top/docs/IOS/xEKdsUbSV6AMr1B.png)
 
 {% hint style="success" %}
 退出后点击登陆由slower提供的商店ID即可进行下一步啦~
