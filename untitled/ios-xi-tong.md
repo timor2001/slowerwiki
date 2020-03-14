@@ -58,7 +58,7 @@ description: 适用设备：iphone & ipad
 更换完我们提供的非国区账号后，打开手机中App store并搜索"Shadowrocket"开始下载并等待安装完毕
 {% endhint %}
 
-![](../.gitbook/assets/tu-pian%20%2812%29.png)
+![](https://cdn.slowerssr.top/docs/IOS/ia_100000000345.png)
 
 {% hint style="danger" %}
 在您下载完上述软件后请务必换回自己的ID,否则出现一切问题\(如手机被锁等其他问题\)Slower将不承担任何后果!
