@@ -11,7 +11,7 @@ description: 适用设备：iphone & ipad
 {% endhint %}
 
 {% hint style="info" %}
-如果您是我们的付费用户，我们为您提供非国区的App store ID.
+如果您是我们的付费用户，你可以前往官网获取商店ID.
 
 如何获取非国区的App store ID?
 
@@ -21,15 +21,17 @@ description: 适用设备：iphone & ipad
 
 2.登陆后关闭弹出的公告,下拉slower官网页面
 
-找到"账号获取"并点击
+找到"**账号获取**"并点击
 
-复制商店ID账号密码即可.
+**复制商店ID账号密码**即可.
 {% endhint %}
 
 {% hint style="warning" %}
-请注意!目前apple对共享ID进行了打击,我们因此损失严重,因此我们开启了共享ID的二次验证,如果您在登陆官网中提供的共享ID需要验证码,请联系客服进行索取验证码\(理论上我们可以为您提供3次验证,如超过次数我们将不再提供验证码\)!
+请注意！
 
-您也可前往:[https://id.wohaobang.cn/product/](https://id.wohaobang.cn/product/) 自行购买美区小火箭ID
+目前apple对共享ID进行了打击,如遇商店ID被锁定或不可用建议您自行购买带有Shadowrocket软件的美区商店ID。
+
+前往:[https://id.wohaobang.cn/product/](https://id.wohaobang.cn/product/) 自行购买美区小火箭ID（非Slower官方渠道，购买后自行联系该站客服）
 {% endhint %}
 
 ## 1.更换您的App store ID账号（并非是您的手机ID账号）
@@ -49,13 +51,13 @@ description: 适用设备：iphone & ipad
 ![](https://i.loli.net/2020/03/15/xEKdsUbSV6AMr1B.png)
 
 {% hint style="success" %}
-退出后点击登陆由slower提供的商店ID即可进行下一步啦~
+退出后点击登陆由slower提供的商店ID即可进行下一步。
 {% endhint %}
 
 ## 2.下载并安装客户端
 
 {% hint style="info" %}
-更换完我们提供的非国区账号后，打开手机中App store并搜索"Shadowrocket"开始下载并等待安装完毕
+更换完商店ID后，打开手机中App store并搜索"Shadowrocket"开始下载并等待安装完毕。
 {% endhint %}
 
 ![](https://i.loli.net/2020/03/15/hOWbBUtzZ6i5DnT.png)
@@ -64,7 +66,7 @@ description: 适用设备：iphone & ipad
 在您下载完上述软件后请务必换回自己的ID,否则出现一切问题\(如手机被锁等其他问题\)Slower将不承担任何后果!
 {% endhint %}
 
-## 3.软件使用
+## 3.导入代理节点并使用
 
 {% hint style="info" %}
 在客户端安装完毕后打开iPhone/iPad自带的Safari浏览器
@@ -73,9 +75,9 @@ description: 适用设备：iphone & ipad
 ![](https://cdn.slowerssr.top/docs/IOS/ia_100000000343.png)
 
 {% hint style="info" %}
-打开slower的官方网址并登录到用户中心
+打开**slower的官方网址**并登录到用户中心
 
-找到"Shadowrocket一键订阅"按钮，如下图
+找到"**Shadowrocket一键订阅**"按钮，如下图
 
 什么?找不到?上面已经说了是官网!
 {% endhint %}
@@ -91,9 +93,7 @@ description: 适用设备：iphone & ipad
 {% hint style="info" %}
 此时会跳转到Shadowrocket客户端中
 
-如Shadowrocket中未出现节点请左滑Slower订阅选择更新即可！如图操作！
-
-PS:新版本貌似已经变成了右滑,总之左滑如果没有更新按钮就右滑~
+如Shadowrocket中未出现节点请右滑Slower订阅组选择更新即可！如图操作！
 {% endhint %}
 
 ![](https://cdn.slowerssr.top/docs/IOS/ia_100000000337.png)
