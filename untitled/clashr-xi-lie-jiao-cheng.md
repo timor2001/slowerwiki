@@ -10,7 +10,7 @@ description: 适用于PC/MAC电脑系统
 
 **2.安装完毕后打开官网,找到ClashR订阅地址并点击一键导入**
 
-![](../.gitbook/assets/tu-pian%20%289%29.png)
+![](../.gitbook/assets/tu-pian%20%282%29.png)
 
 **3.在弹出的提示中选择打开,并填写一个托管配置名称:Slower,点击确定.**
 
