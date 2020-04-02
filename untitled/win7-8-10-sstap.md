@@ -12,11 +12,13 @@ description: 适用系统：Windows 7/8/8.1/10 32/64位系统
 
 ### 2.安装sstap
 
+{% hint style="info" %}
 安装时请将您的订阅地址粘贴至下图对话框中
 
 不知道**订阅地址**在哪？
 
 打开Slower官网登陆，弹出的公告中即可复制你的**订阅地址**
+{% endhint %}
 
 ![](../.gitbook/assets/tu-pian%20%2813%29.png)
 
