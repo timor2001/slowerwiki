@@ -1,8 +1,8 @@
 ---
-description: 适用系统：Windows 7 32/64位 & Windows 10 32/64位
+description: 适用系统：Windows 10 32/64位
 ---
 
-# Windows系统
+# Win10 - Slower客户端
 
 {% hint style="danger" %}
 **保持智商！为了保证您的隐私安全以及网络隐蔽性建议进行下列操作：**

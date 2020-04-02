@@ -2,7 +2,7 @@
 description: 适用的系统版本：macOS 10.11+
 ---
 
-# Mac OS系统
+# Mac OS - ShadowsocksR
 
 {% hint style="info" %}
 **请注意！如果您的macOS系统版本未达到上面的适用需求，请更新您的macOS系统！**
