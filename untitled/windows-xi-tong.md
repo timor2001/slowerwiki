@@ -33,7 +33,7 @@ description: 适用系统：Windows 10 32/64位
 ## 下载客户端并安装
 
 {% hint style="success" %}
-[点击此处下载Slower客户端](https://www.lanzous.com/i9nivta)
+[点击此处下载Slower客户端](https://slower.lanzous.com/i9nivta)
 {% endhint %}
 
 {% hint style="danger" %}

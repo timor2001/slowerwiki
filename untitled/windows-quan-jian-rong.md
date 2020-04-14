@@ -31,7 +31,7 @@ description: ShadowsocksR使用教程
 {% endhint %}
 
 {% hint style="success" %}
-[下载ShadowsocksR ](https://www.lanzous.com/i7trhvg)
+[下载ShadowsocksR ](https://slower.lanzous.com/i7trhvg)
 {% endhint %}
 
 ![](https://cdn.slowerssr.top/docs/SSR/ia_100000000422.png)

@@ -7,7 +7,7 @@ description: 适用系统：Windows 7/8/8.1/10 32/64位系统
 ### **1.下载sstap**
 
 {% hint style="info" %}
-[点此下载sstap](https://www.lanzous.com/i9nhu9i)
+[点此下载sstap](https://slower.lanzous.com/i9nhu9i)
 {% endhint %}
 
 ### 2.安装sstap
