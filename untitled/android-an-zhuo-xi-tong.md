@@ -3,7 +3,7 @@
 ## **下载与安装**
 
 {% hint style="success" %}
-\*\*\*\*[**点击此处下载SSR客户端**](https://c-t.work/s/ab4697a30aa148)
+\*\*\*\*[**点击此处下载SSR客户端**](https://slowergz.cn-gd.ufileos.com/shadowsocksr-release.apk)
 {% endhint %}
 
 安装并打开
