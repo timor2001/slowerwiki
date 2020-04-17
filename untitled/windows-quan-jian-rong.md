@@ -8,6 +8,10 @@ description: ShadowsocksR使用教程
 在Windows系统里，下载并安装客户端之后，默认的服务器及配置如下图所示。图中红圈内显示服务器: server host:8388. 这样的情况下，是无法建立连接的。你无法正常使用Slower的服务！
 {% endhint %}
 
+{% hint style="danger" %}
+使用此客户端时，请务必取消勾选“**服务器均衡负载**”功能，否则你的账号可能会被封禁！
+{% endhint %}
+
 ![](https://cdn.slowerssr.top/docs/SSR/ia_100000000420.png)
 
 ## 如何添加订阅并自动更新服务器列表?
@@ -44,6 +48,10 @@ description: ShadowsocksR使用教程
 【2】点击更新SSR服务器订阅（不通过代理）来更新所有Slower服务器
 {% endhint %}
 
+{% hint style="danger" %}
+使用此客户端时，请务必取消勾选“**服务器均衡负载**”功能，否则你的账号可能会被封禁！
+{% endhint %}
+
 ![](https://cdn.slowerssr.top/docs/SSR/ia_100000000423.png)
 
 ### **更新服务器列表后，你就可以看到完整的Slower服务器了，选择一个合适的服务器吧。**
@@ -65,4 +73,6 @@ description: ShadowsocksR使用教程
 ![](https://cdn.slowerssr.top/docs/SSR/ia_100000000425.png)
 
 ![](https://cdn.slowerssr.top/docs/SSR/ia_100000000426.png)
+
+
 
