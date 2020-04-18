@@ -20,7 +20,7 @@ description: 适用系统：Windows 7/8/8.1/10 32/64位系统
 打开Slower官网登陆，弹出的公告中即可复制你的**订阅地址**
 {% endhint %}
 
-![](../.gitbook/assets/tu-pian%20%2814%29.png)
+![](../.gitbook/assets/tu-pian%20%2815%29.png)
 
 ### 3.启动sstap，在代理栏选择一带有国家地区的节点并连接即可 。
 

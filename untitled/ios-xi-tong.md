@@ -2,7 +2,7 @@
 description: 适用设备：iphone & ipad
 ---
 
-# i Phone/i Pad - IOS系统
+# iPhone/iPad - IOS系统
 
 ## 0.首先请仔细阅读以下几点提示在进行操作!
 
