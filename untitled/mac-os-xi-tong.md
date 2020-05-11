@@ -5,13 +5,19 @@ description: 适用的系统版本：macOS 10.11+
 # Mac OS - ShadowsocksR
 
 {% hint style="info" %}
-**请注意！如果您的macOS系统版本未达到上面的适用需求，请更新您的macOS系统！**
+**友情提醒，此客户端太过古老，且已无开发者进行维护，故不推荐使用。**
+
+**建议**[**移步到此**](clashr-xi-lie-jiao-cheng.md)\*\*\*\*
+{% endhint %}
+
+{% hint style="info" %}
+**请注意！如果您的macOS系统版本未达到上面的适用需求，请更新您的macOS系统!**
 
 **如何更新？**[**`点击这里`**](https://www.apple.com/cn/macos/how-to-upgrade/)
 {% endhint %}
 
 {% hint style="success" %}
-[**点击此处下载macOS客户端**](https://slower.lanzous.com/i7trhsd)\*\*\*\*
+[**点击此处下载macOS客户端**](https://slowergz.cn-gd.ufileos.com/ShadowsocksX-NG-R8.dmg)\*\*\*\*
 {% endhint %}
 
 
