@@ -18,10 +18,6 @@ description: Slower网络加速器
 **5.Slower不提供任何试用！如需使用，请购买套餐。**
 {% endhint %}
 
-
-
-
-
 {% hint style="danger" %}
 **保持智商！为了保证您的隐私安全以及网络隐蔽性建议进行下列操作：**
 
@@ -54,8 +50,6 @@ description: Slower网络加速器
 
 [服务器订阅](wang-zhan-shi-yong/fu-wu-qi-ding-yue.md)  
 [节点推荐](wang-zhan-shi-yong/jie-dian-tui-jian.md)
-
-[免费APP store账号](wang-zhan-shi-yong/mian-fei-app-store-zhang-hao.md)
 
 
 
