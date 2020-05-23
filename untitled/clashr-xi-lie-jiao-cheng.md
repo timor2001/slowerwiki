@@ -5,7 +5,7 @@ description: 适用的系统版本：macOS 10.12+
 # Mac OS - ClashxR
 
 {% hint style="warning" %}
-由于最新版本Mac OS的更新可能会导致安装ClashxR后出现“恶意软件”的提示，如果您的系统出现该提示，请按此顺序操作：
+由于最新版本Mac OS的更新可能会导致安装ClashxR后出现“恶意软件”的提示，如果您的系统出现该提示，这是由于ClashxR的帮助程序导致的误判，请按此顺序操作：
 
 1.确保您已经安装完毕ClashxR。
 
