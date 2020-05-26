@@ -7,7 +7,7 @@ description: ShadowsocksR使用教程
 {% hint style="warning" %}
 **除Windows XP系统外，我们已经不建议非专业人员使用该客户端。**
 
-**如果你不懂SSR原理及订阅使用方法，或无法排查SSTAP的任何错误。** 
+**如果你不懂SSR原理及订阅使用方法，或无法自行排查ShadowsocksR的任何错误。** 
 
 **我们已经不建议你使用该客户端** 
 

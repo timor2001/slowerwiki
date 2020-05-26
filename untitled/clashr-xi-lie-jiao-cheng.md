@@ -5,13 +5,13 @@ description: 适用的系统版本：macOS 10.12+
 # Mac OS - ClashxR
 
 {% hint style="warning" %}
-如果你不懂SSR原理及订阅使用方法，或无法自行排查SSR的任何错误。
+**如果你不懂SSR原理及订阅使用方法，或无法自行排查SSR的任何错误。**
 
-我们已经不建议你使用该客户端
+**我们已经不建议你使用该客户端**
 
-[请移步至这里](https://down.zjnyd.top/)
+\*\*\*\*[**请移步至这里**](https://down.zjnyd.top/)\*\*\*\*
 
-安装免配置版客户端使用。
+**安装免配置版客户端使用。**
 {% endhint %}
 
 **MacOS系统:**

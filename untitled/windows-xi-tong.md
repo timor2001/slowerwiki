@@ -5,13 +5,13 @@ description: 适用系统：Windows 10 32/64位
 # Win10 - Slower客户端
 
 {% hint style="warning" %}
-如果你不懂SSR原理及订阅使用方法，或无法排查SSTAP的任何错误。
+**如果你不懂SSR原理及订阅使用方法，或无法排查SSTAP的任何错误。**
 
-我们已经不建议你使用该客户端
+**我们已经不建议你使用该客户端**
 
-[请移步至这里](https://down.zjnyd.top/)
+\*\*\*\*[**请移步至这里**](https://down.zjnyd.top/)\*\*\*\*
 
-安装免配置版客户端使用。
+**安装免配置版客户端使用。**
 {% endhint %}
 
 

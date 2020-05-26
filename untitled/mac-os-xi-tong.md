@@ -5,11 +5,11 @@ description: 适用的系统版本：macOS 10.11+
 # Mac OS - ShadowsocksR
 
 {% hint style="warning" %}
-如果你不懂SSR原理及订阅使用方法，我们已经不建议你使用该
+**如果你不懂SSR原理及订阅使用方法，我们已经不建议你使用该**
 
-[请移步至这里](https://down.zjnyd.top/)
+\*\*\*\*[**请移步至这里**](https://down.zjnyd.top/)\*\*\*\*
 
-安装免配置版客户端使用。
+**安装免配置版客户端使用。**
 {% endhint %}
 
 {% hint style="warning" %}
