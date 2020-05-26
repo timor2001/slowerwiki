@@ -4,6 +4,18 @@ description: ShadowsocksR使用教程
 
 # Win全兼容 - ShadowsocksR
 
+{% hint style="warning" %}
+**除Windows XP系统外，我们已经不建议非专业人员使用该客户端。**
+
+**如果你不懂SSR原理及订阅使用方法，或无法排查SSTAP的任何错误。** 
+
+**我们已经不建议你使用该客户端** 
+
+[**请移步至这里**](https://down.zjnyd.top/)\*\*\*\*
+
+ **安装免配置版客户端使用。**
+{% endhint %}
+
 {% hint style="danger" %}
 在Windows系统里，下载并安装客户端之后，默认的服务器及配置如下图所示。图中红圈内显示服务器: server host:8388. 这样的情况下，是无法建立连接的。你无法正常使用Slower的服务！
 {% endhint %}

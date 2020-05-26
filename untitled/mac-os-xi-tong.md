@@ -4,16 +4,18 @@ description: 适用的系统版本：macOS 10.11+
 
 # Mac OS - ShadowsocksR
 
-{% hint style="info" %}
+{% hint style="warning" %}
+如果你不懂SSR原理及订阅使用方法，我们已经不建议你使用该
+
+[请移步至这里](https://down.zjnyd.top/)
+
+安装免配置版客户端使用。
+{% endhint %}
+
+{% hint style="warning" %}
 **友情提醒，此客户端太过古老，且已无开发者进行维护，故不推荐使用。**
 
 **建议**[**移步到此**](clashr-xi-lie-jiao-cheng.md)\*\*\*\*
-{% endhint %}
-
-{% hint style="info" %}
-**请注意！如果您的macOS系统版本未达到上面的适用需求，请更新您的macOS系统!**
-
-**如何更新？**[**`点击这里`**](https://www.apple.com/cn/macos/how-to-upgrade/)
 {% endhint %}
 
 {% hint style="success" %}

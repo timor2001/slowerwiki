@@ -5,6 +5,16 @@ description: 适用于安卓8.0以上系统
 # Android安卓 - ClashR
 
 {% hint style="warning" %}
+如果你不懂SSR原理及订阅使用方法，或无法自行排查SSR的任何错误。 
+
+我们已经不建议你使用该客户端 
+
+[请移步至这里 ](https://down.zjnyd.top/)
+
+安装免配置版客户端使用。
+{% endhint %}
+
+{% hint style="warning" %}
 注意！此客户端仅适用于安卓8.0以上的版本，如果你不知道自己手机的安卓版本可进入如下操作：
 
 打开手机设置 - 找到关于本机 - 查看Android版本即可。
